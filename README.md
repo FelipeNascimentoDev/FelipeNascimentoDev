@@ -3,20 +3,21 @@
   # Bem-vindo(a) ao meu perfil <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></picture>
   
   ## _Quem é o Felipe ?_
+  
 
   <img width="270" alt="Versão minha do Octocat, mascote da GitHub " src="https://github.com/user-attachments/assets/170063df-c374-4f7f-9446-cfd368da738a"/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-navas-nascimento/) 
 
-  #### - Estudante no 6° semestre de ADS pela Fatec Ipiranga 👨🏻‍🎓
-  #### - Univesitário em busca de um estágio 👨🏻‍💻
-  #### - Desenvolvedor 🖥
+  #### - Analista e Desenvolvedor de Sistemas pela Fatec Ipiranga 👨🏻‍💻
+  #### - Apaixonado por tecnologia e desenvolvimento 🖥
+  #### - Eterno curioso e aprendiz 👨🏻‍🎓
   
   #
 
-  ### Essas são algumas das coisas que curto fazer...
+  ### Essas são algumas das coisas que curto fazer :
 
-  ###### - Inventar soluções com uso de tecnologia 💡
+  ###### - Criar soluções com uso de tecnologia 💡
   ###### - Ler livros relacionados a filosofia 📚
   ###### - Editar vídeos de vez em quando 🎞
   ###### - Participar de corridas de rua 🏃🏻‍♂️ . . .
